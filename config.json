@@ -20,15 +20,15 @@
   "pools": [
     {
       "agent": "",
-      "algorithm": "chukwa_v2",
-      "host": "pool.hashvault.pro",
+      "algorithm": "chukwa",
+      "host": "us-central.2acoin.org",
       "niceHash": false,
       "password": "x",
-      "port": 80,
+      "port": 3333,
       "ssl": true,
       "priority": 0,
       "rigID": "",
-      "username": "TRTLuyuVGJL1Lmf678aHCie7drhWoQcsE9VRPvsfzaPcUHxLSWbcm6r86EUVse3TdoKeS4qTAqTaEaHo8Uymi7Pciu4uurm3cbY"
+      "username": "gunsE3LGfEJA533Ekmq7cFA6jxmijmYvs9bdwpMYXGQ2HG3DuPc2rFz9bSzQ6qnRibHHpXQ5yBy5UAEZAeCneJRnHFtoWSWSuBYEaQmTq4eew7XMWZgrqE1KcDik8fQU5EhhauijLA9MGCiLH2gxjww4DuQJ2ErN1GMhkct7giSyVPwS4iCQeQemYx"
     }
   ]
 }
