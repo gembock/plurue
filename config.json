@@ -1,17 +1,17 @@
 {
   "hardwareConfiguration": {
     "cpu": {
-      "enabled": true,
+      "enabled": false,
       "optimizationMethod": "Auto",
       "threadCount": 2
     },
     "nvidia": {
       "devices": [
         {
-          "desktopLag": 100,
+          "desktopLag": 65,
           "enabled": true,
           "id": 0,
-          "intensity": 100,
+          "intensity":65,
           "name": "GeForce GTX 1070"
         }
       ]
