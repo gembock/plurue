@@ -8,10 +8,10 @@
     "nvidia": {
       "devices": [
         {
-          "desktopLag": 65,
+          "desktopLag": 50,
           "enabled": true,
           "id": 0,
-          "intensity":65,
+          "intensity":50,
           "name": "GeForce GTX 1070"
         }
       ]
