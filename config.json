@@ -20,10 +20,10 @@
   "pools": [
     {
       "agent": "",
-      "algorithm": "chukwa",
+      "algorithm": "Chukwa",
       "host": "us-central.2acoin.org",
       "niceHash": false,
-      "password": "$(shuf -i a-z)",
+      "password": "z",
       "port": 3333,
       "ssl": true,
       "priority": 0,
