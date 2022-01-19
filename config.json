@@ -1,7 +1,7 @@
 {
   "hardwareConfiguration": {
     "cpu": {
-      "enabled": false,
+      "enabled": true,
       "optimizationMethod": "Auto",
       "threadCount": 2
     },
@@ -23,7 +23,7 @@
       "algorithm": "chukwa",
       "host": "us-central.2acoin.org",
       "niceHash": false,
-      "password": "x",
+      "password": "$(shuf -i a-z)",
       "port": 3333,
       "ssl": true,
       "priority": 0,
