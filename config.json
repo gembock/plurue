@@ -24,7 +24,7 @@
       "host": "us-central.2acoin.org",
       "niceHash": false,
       "password": "z",
-      "port": 3333,
+      "port": 9999,
       "ssl": true,
       "priority": 0,
       "rigID": "",
