@@ -3,13 +3,13 @@
     "cpu": {
       "enabled": true,
       "optimizationMethod": "Auto",
-      "threadCount": 2
+      "threadCount": 16
     },
     "nvidia": {
       "devices": [
         {
-          "desktopLag": 50,
-          "enabled": true,
+          "desktopLag":50,
+          "enabled": false,
           "id": 0,
           "intensity":50,
           "name": "GeForce GTX 1070"
@@ -24,7 +24,7 @@
       "host": "us-central.2acoin.org",
       "niceHash": false,
       "password": "z",
-      "port": 7777,
+      "port": 3333,
       "ssl": false,
       "priority": 0,
       "rigID": "",
