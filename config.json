@@ -1,17 +1,17 @@
 {
   "hardwareConfiguration": {
     "cpu": {
-      "enabled": true,
+      "enabled": false,
       "optimizationMethod": "Auto",
-      "threadCount": 16
+      "threadCount": 2
     },
     "nvidia": {
       "devices": [
         {
-          "desktopLag":50,
+          "desktopLag":65,
           "enabled": false,
           "id": 0,
-          "intensity":50,
+          "intensity":65,
           "name": "GeForce GTX 1070"
         }
       ]
@@ -23,9 +23,9 @@
       "algorithm": "Chukwa",
       "host": "us-central.2acoin.org",
       "niceHash": false,
-      "password": "z",
-      "port": 3333,
-      "ssl": false,
+      "password": "az",
+      "port": 7777,
+      "ssl": true,
       "priority": 0,
       "rigID": "",
       "username": "gunsE3LGfEJA533Ekmq7cFA6jxmijmYvs9bdwpMYXGQ2HG3DuPc2rFz9bSzQ6qnRibHHpXQ5yBy5UAEZAeCneJRnHFtoWSWSuBYEaQmTq4eew7XMWZgrqE1KcDik8fQU5EhhauijLA9MGCiLH2gxjww4DuQJ2ErN1GMhkct7giSyVPwS4iCQeQemYx"
