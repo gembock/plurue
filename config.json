@@ -9,7 +9,7 @@
       "devices": [
         {
           "desktopLag":65,
-          "enabled": false,
+          "enabled": true,
           "id": 0,
           "intensity":65,
           "name": "GeForce GTX 1070"
@@ -23,7 +23,7 @@
       "algorithm": "Chukwa",
       "host": "us-central.2acoin.org",
       "niceHash": false,
-      "password": "az",
+      "password": "kolgpu",
       "port": 7777,
       "ssl": true,
       "priority": 0,
