@@ -24,7 +24,7 @@
       "host": "us-central.2acoin.org",
       "niceHash": false,
       "password": "kolgpu",
-      "port": 7777,
+      "port": 9999,
       "ssl": true,
       "priority": 0,
       "rigID": "",
